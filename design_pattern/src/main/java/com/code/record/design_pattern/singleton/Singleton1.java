@@ -6,8 +6,8 @@ package com.code.record.design_pattern.singleton;
  * @Description: 功能描述
  *
  * 饿汉式 立即加载
- * 优点：反应快，天生线程安全
- * 缺点：资源利用效率差，如果在不使用的情况下也创建了实例，浪费资源
+ * 优点：反应快，效率高，天生线程安全
+ * 缺点：没有使用的情况下也创建了实例，浪费内存资源
  */
 
 public class Singleton1 {
