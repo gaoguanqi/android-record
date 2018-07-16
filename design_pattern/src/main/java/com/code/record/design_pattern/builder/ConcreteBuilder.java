@@ -1,4 +1,4 @@
-package com.code.record.design_pattern.factory.builder;
+package com.code.record.design_pattern.builder;
 
 /**
  * @Author: Gao
